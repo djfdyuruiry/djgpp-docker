@@ -9,8 +9,17 @@ You can pull from `djfdyuruiry/djgpp`: https://hub.docker.com/r/djfdyuruiry/djgp
 Environment:
 
   - Ubuntu 21.04 LTS base
-  - GCC v7.0.2
-  - DJGPP gcc/g++ binaries are setup in the PATH
+  - GCC v4.7.3/v7.0.2/v10.2.0
+  - DJGPP gcc/g++ binaries are setup in the `PATH`
+
+Available Image Tags:
+
+  - `latest` / `gcc-7.2.0-latest` - latest DJGPP + GCC v7.0.2
+  - `latest` / `gcc-7.2.0-205` - DJGPP v2.0.5 + GCC v7.0.2
+  - `gcc-4.7.3-latest` - latest DJGPP + GCC v4.7.3
+  - `gcc-4.7.3-205` - latest DJGPP + GCC v4.7.3
+  - `gcc-10.2.0-latest` - latest DJGPP + GCC v4.7.3
+  - `gcc-10.2.0-205` - DJGPP v2.0.5 + GCC v4.7.3
 
 ----
 
