@@ -17,7 +17,7 @@ Available Image Tags:
   - `latest` / `gcc-7.2.0-latest` - latest DJGPP + GCC v7.0.2
   - `latest` / `gcc-7.2.0-205` - DJGPP v2.0.5 + GCC v7.0.2
   - `gcc-4.7.3-latest` - latest DJGPP + GCC v4.7.3
-  - `gcc-4.7.3-205` - latest DJGPP + GCC v4.7.3
+  - `gcc-4.7.3-205` - DJGPP v2.0.5 + GCC v4.7.3
   - `gcc-10.2.0-latest` - latest DJGPP + GCC v4.7.3
   - `gcc-10.2.0-205` - DJGPP v2.0.5 + GCC v4.7.3
 
